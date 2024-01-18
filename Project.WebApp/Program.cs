@@ -1,4 +1,5 @@
-using Microsoft.AspNet.Identity.EntityFramework;
+
+using Microsoft.EntityFrameworkCore;
 using Project.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
